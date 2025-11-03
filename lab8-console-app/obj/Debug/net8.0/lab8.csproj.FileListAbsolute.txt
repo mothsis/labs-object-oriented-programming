@@ -1,0 +1,15 @@
+/workspaces/labs-object-oriented-programming/lab8-console-app/bin/Debug/net8.0/lab8
+/workspaces/labs-object-oriented-programming/lab8-console-app/bin/Debug/net8.0/lab8.deps.json
+/workspaces/labs-object-oriented-programming/lab8-console-app/bin/Debug/net8.0/lab8.runtimeconfig.json
+/workspaces/labs-object-oriented-programming/lab8-console-app/bin/Debug/net8.0/lab8.dll
+/workspaces/labs-object-oriented-programming/lab8-console-app/bin/Debug/net8.0/lab8.pdb
+/workspaces/labs-object-oriented-programming/lab8-console-app/obj/Debug/net8.0/lab8.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/labs-object-oriented-programming/lab8-console-app/obj/Debug/net8.0/lab8.AssemblyInfoInputs.cache
+/workspaces/labs-object-oriented-programming/lab8-console-app/obj/Debug/net8.0/lab8.AssemblyInfo.cs
+/workspaces/labs-object-oriented-programming/lab8-console-app/obj/Debug/net8.0/lab8.csproj.CoreCompileInputs.cache
+/workspaces/labs-object-oriented-programming/lab8-console-app/obj/Debug/net8.0/lab8.sourcelink.json
+/workspaces/labs-object-oriented-programming/lab8-console-app/obj/Debug/net8.0/lab8.dll
+/workspaces/labs-object-oriented-programming/lab8-console-app/obj/Debug/net8.0/refint/lab8.dll
+/workspaces/labs-object-oriented-programming/lab8-console-app/obj/Debug/net8.0/lab8.pdb
+/workspaces/labs-object-oriented-programming/lab8-console-app/obj/Debug/net8.0/lab8.genruntimeconfig.cache
+/workspaces/labs-object-oriented-programming/lab8-console-app/obj/Debug/net8.0/ref/lab8.dll
