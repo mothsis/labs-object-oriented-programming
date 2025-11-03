@@ -1,0 +1,17 @@
+# Build outputs
+bin/
+obj/
+
+# VS/IDE
+.vs/
+.idea/
+*.user
+*.suo
+
+# Logs, OS
+*.log
+.DS_Store
+
+# Текстовые файлы ввода/вывода, которые не нужны в репо
+test/output.txt
+test/input.txt

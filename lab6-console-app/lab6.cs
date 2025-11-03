@@ -75,7 +75,7 @@ class Program
         p1.ShowBuildConfig();
 
         Console.WriteLine("\nВведите координаты второй точки:");
-        Point3D p2 = new Point3D();
+        Point3D p2 = new Point3D(); 
         p2.Input();
 
         // Вычисление расстояний
