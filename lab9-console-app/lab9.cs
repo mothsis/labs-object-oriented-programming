@@ -1,13 +1,13 @@
 using System;
 
-interface ICalculable
+interface ICalculate
 {
     void Plus(int value);
     void Minus(int value);
     void DrawObject();
 }
 
-public class Human : ICalculable
+public class Human : ICalculate
 {
     public string FIO;
     private int Age;
@@ -49,7 +49,7 @@ public class Human : ICalculable
     }
 }
 
-public class Car : ICalculable
+public class Car : IICalculate
 {
     private string Manufacturer;
     private string Model;
@@ -103,15 +103,14 @@ class Program
 
         Console.Title = "Лабораторная работа №9";
 
-        // Полиморфизм через интерфейс
-        ICalculable h = new Human("Крутой человек", 40);
+        ICalculate h = new Human("Крутой человек", 40);
         h.Plus(5);
         h.Minus(1);
         h.DrawObject();
 
         Console.WriteLine("\n\n");
 
-        ICalculable car = new Car("Крутая машина", "ix35", 120);
+        ICalculate car = new Car("Крутая машина", "ix35", 120);
         car.Plus(25);
         car.Minus(11);
         car.DrawObject();
