@@ -1,6 +1,5 @@
 using System;
 
-
 interface ICalculable
 {
     void Plus(int value);
@@ -41,7 +40,7 @@ public class Human : ICalculable
     {
         Console.WriteLine(
             "        O       \n" +
-            "   -----------  \n" +
+            "  ------------  \n" +
             "        |       \n" +
             "       / \\     \n" +
             "      /   \\    \n"
