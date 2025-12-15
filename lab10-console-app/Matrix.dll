@@ -1,0 +1,99 @@
+using System;
+using System.IO;
+
+namespace MatrixLibrary
+{
+    public class Matrix
+    {
+        private float[,] matrix;
+        private int m, n;
+        
+        public Matrix()
+        {
+        }
+        
+        public void GenerateMatrix(int M, int N)
+        {
+            m = M;
+            n = N;
+            Random r = new Random(DateTime.Now.Millisecond);
+            matrix = new float[M, N];
+            for (int i = 0; i < M; i++)
+            {
+                for (int j = 0; j < N; j++)
+                {
+                    matrix[i, j] = (float)r.Next(1000) / 100;
+                }
+            }
+        }
+        
+        public void SaveMatrix(string pFileName)
+        {
+            if (matrix.Length > 0)
+            {
+                if (File.Exists(pFileName))
+                    File.Delete(pFileName);
+                
+                FileInfo f = new FileInfo(pFileName);
+                TextWriter tw = f.CreateText();
+                tw.WriteLine(m.ToString());
+                tw.WriteLine(n.ToString());
+                for (int i = 0; i < m; i++)
+                {
+                    for (int j = 0; j < n; j++)
+                    {
+                        tw.WriteLine(i.ToString() + " " + j.ToString() + " " + matrix[i, j].ToString("F2"));
+                    }
+                }
+                tw.Close();
+            }
+        }
+        
+        public bool LoadMatrix(string pFileName)
+        {
+            if (File.Exists(pFileName))
+            {
+                try
+                {
+                    TextReader tr = File.OpenText(pFileName);
+                    m = Convert.ToInt32(tr.ReadLine());
+                    n = Convert.ToInt32(tr.ReadLine());
+                    matrix = new float[m, n];
+                    string[] line = new string[3];
+                    
+                    for (int i = 0; i < m; i++)
+                    {
+                        for (int j = 0; j < n; j++)
+                        {
+                            line = tr.ReadLine().Split(' ');
+                            matrix[i, j] = Convert.ToSingle(line[2]);
+                        }
+                    }
+                    tr.Close();
+                    return true;
+                }
+                catch
+                {
+                    return false;
+                }
+            }
+            return false;
+        }
+        
+        // Вывод матрицы в консоль
+        public void PrintMatrix()
+        {
+            if (matrix.Length > 0)
+            {
+                for (int i = 0; i < m; i++)
+                {
+                    for (int j = 0; j < n; j++)
+                    {
+                        Console.Write(matrix[i, j].ToString("F2") + " ");
+                    }
+                    Console.WriteLine();
+                }
+            }
+        }
+    }
+}
