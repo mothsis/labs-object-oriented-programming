@@ -1,0 +1,14 @@
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\bin\Debug\net8.0\lab9.exe
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\bin\Debug\net8.0\lab9.deps.json
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\bin\Debug\net8.0\lab9.runtimeconfig.json
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\bin\Debug\net8.0\lab9.dll
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\bin\Debug\net8.0\lab9.pdb
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\obj\Debug\net8.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\obj\Debug\net8.0\lab9.AssemblyInfoInputs.cache
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\obj\Debug\net8.0\lab9.AssemblyInfo.cs
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\obj\Debug\net8.0\lab9.csproj.CoreCompileInputs.cache
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\obj\Debug\net8.0\lab9.dll
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\obj\Debug\net8.0\refint\lab9.dll
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\obj\Debug\net8.0\lab9.pdb
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\obj\Debug\net8.0\lab9.genruntimeconfig.cache
+D:\codes\labs-object-oriented-programming-main\lab9-console-app\obj\Debug\net8.0\ref\lab9.dll
