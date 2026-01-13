@@ -1,0 +1,14 @@
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\bin\Debug\18lab.exe.config
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\bin\Debug\18lab.exe
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\bin\Debug\18lab.pdb
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\obj\Debug\18lab.csproj.AssemblyReference.cache
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\obj\Debug\MainWindow.baml
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\obj\Debug\MainWindow.g.cs
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\obj\Debug\App.g.cs
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\obj\Debug\18lab_MarkupCompile.cache
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\obj\Debug\18lab.g.resources
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\obj\Debug\_18lab.Properties.Resources.resources
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\obj\Debug\18lab.csproj.GenerateResource.cache
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\obj\Debug\18lab.csproj.CoreCompileInputs.cache
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\obj\Debug\18lab.exe
+C:\Users\Motsis\Desktop\18лаб\18lab\18lab\obj\Debug\18lab.pdb

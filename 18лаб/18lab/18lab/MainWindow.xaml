@@ -1,0 +1,41 @@
+﻿<Window x:Class="Lab18_Variant4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Лабораторная работа №18" Height="350" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Vertical" Grid.Row="0">
+            <TextBlock Text="Введите X:"/>
+            <TextBox x:Name="tbX"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="1">
+            <TextBlock Text="Введите Y:"/>
+            <TextBox x:Name="tbY"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="2">
+            <TextBlock Text="Введите N:"/>
+            <TextBox x:Name="tbN"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="3">
+            <TextBlock Text="Введите R:"/>
+            <TextBox x:Name="tbR"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="4" Margin="0,10,0,0">
+            <Button Content="Вычислить" Click="Button_Click" Height="30"/>
+            <TextBlock Text="Результат:" Margin="0,10,0,0"/>
+            <TextBox x:Name="tbResult" IsReadOnly="True"/>
+        </StackPanel>
+    </Grid>
+</Window>
+
