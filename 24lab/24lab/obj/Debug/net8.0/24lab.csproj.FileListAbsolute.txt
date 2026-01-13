@@ -1,0 +1,14 @@
+C:\Users\Motsis\Desktop\24\24lab\24lab\bin\Debug\net8.0\24lab.exe
+C:\Users\Motsis\Desktop\24\24lab\24lab\bin\Debug\net8.0\24lab.deps.json
+C:\Users\Motsis\Desktop\24\24lab\24lab\bin\Debug\net8.0\24lab.runtimeconfig.json
+C:\Users\Motsis\Desktop\24\24lab\24lab\bin\Debug\net8.0\24lab.dll
+C:\Users\Motsis\Desktop\24\24lab\24lab\bin\Debug\net8.0\24lab.pdb
+C:\Users\Motsis\Desktop\24\24lab\24lab\obj\Debug\net8.0\24lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Motsis\Desktop\24\24lab\24lab\obj\Debug\net8.0\24lab.AssemblyInfoInputs.cache
+C:\Users\Motsis\Desktop\24\24lab\24lab\obj\Debug\net8.0\24lab.AssemblyInfo.cs
+C:\Users\Motsis\Desktop\24\24lab\24lab\obj\Debug\net8.0\24lab.csproj.CoreCompileInputs.cache
+C:\Users\Motsis\Desktop\24\24lab\24lab\obj\Debug\net8.0\24lab.dll
+C:\Users\Motsis\Desktop\24\24lab\24lab\obj\Debug\net8.0\refint\24lab.dll
+C:\Users\Motsis\Desktop\24\24lab\24lab\obj\Debug\net8.0\24lab.pdb
+C:\Users\Motsis\Desktop\24\24lab\24lab\obj\Debug\net8.0\24lab.genruntimeconfig.cache
+C:\Users\Motsis\Desktop\24\24lab\24lab\obj\Debug\net8.0\ref\24lab.dll
