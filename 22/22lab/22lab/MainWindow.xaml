@@ -1,0 +1,43 @@
+﻿<Window x:Class="Lab22.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ЛР-22 Асинхронное формирование матрицы"
+        Height="400" Width="500">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Ввод параметров -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Строки:" VerticalAlignment="Center"/>
+            <TextBox x:Name="tbRows" Width="60" Margin="5,0"/>
+
+            <TextBlock Text="Столбцы:" VerticalAlignment="Center"/>
+            <TextBox x:Name="tbCols" Width="60" Margin="5,0"/>
+
+            <Button Content="Запустить"
+                    Click="StartButton_Click"
+                    Margin="10,0"/>
+        </StackPanel>
+
+        <!-- Статус -->
+        <TextBlock x:Name="tbStatus"
+                   Grid.Row="1"
+                   Text="Ожидание запуска..."
+                   FontWeight="Bold"
+                   Margin="0,5"/>
+
+        <!-- Результат -->
+        <TextBox x:Name="tbResult"
+                 Grid.Row="3"
+                 FontFamily="Consolas"
+                 IsReadOnly="True"
+                 TextWrapping="Wrap"
+                 VerticalScrollBarVisibility="Auto"/>
+    </Grid>
+</Window>

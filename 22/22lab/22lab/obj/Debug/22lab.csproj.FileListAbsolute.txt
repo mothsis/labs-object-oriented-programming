@@ -1,0 +1,15 @@
+C:\Users\Motsis\Desktop\22\22lab\22lab\bin\Debug\22lab.exe.config
+C:\Users\Motsis\Desktop\22\22lab\22lab\bin\Debug\22lab.exe
+C:\Users\Motsis\Desktop\22\22lab\22lab\bin\Debug\22lab.pdb
+C:\Users\Motsis\Desktop\22\22lab\22lab\obj\Debug\22lab.csproj.AssemblyReference.cache
+C:\Users\Motsis\Desktop\22\22lab\22lab\obj\Debug\MainWindow.g.cs
+C:\Users\Motsis\Desktop\22\22lab\22lab\obj\Debug\App.g.cs
+C:\Users\Motsis\Desktop\22\22lab\22lab\obj\Debug\22lab_MarkupCompile.cache
+C:\Users\Motsis\Desktop\22\22lab\22lab\obj\Debug\MainWindow.baml
+C:\Users\Motsis\Desktop\22\22lab\22lab\obj\Debug\22lab.g.resources
+C:\Users\Motsis\Desktop\22\22lab\22lab\obj\Debug\_22lab.Properties.Resources.resources
+C:\Users\Motsis\Desktop\22\22lab\22lab\obj\Debug\22lab.csproj.GenerateResource.cache
+C:\Users\Motsis\Desktop\22\22lab\22lab\obj\Debug\22lab.csproj.CoreCompileInputs.cache
+C:\Users\Motsis\Desktop\22\22lab\22lab\obj\Debug\22lab.exe
+C:\Users\Motsis\Desktop\22\22lab\22lab\obj\Debug\22lab.pdb
+C:\Users\Motsis\Desktop\22\22lab\22lab\obj\Debug\22lab.exe.config
