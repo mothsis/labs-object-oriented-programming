@@ -1,0 +1,15 @@
+C:\Users\Motsis\Desktop\20\20lab\20lab\obj\Debug\20lab.csproj.AssemblyReference.cache
+C:\Users\Motsis\Desktop\20\20lab\20lab\obj\Debug\MainWindow.baml
+C:\Users\Motsis\Desktop\20\20lab\20lab\obj\Debug\MainWindow.g.cs
+C:\Users\Motsis\Desktop\20\20lab\20lab\obj\Debug\App.g.cs
+C:\Users\Motsis\Desktop\20\20lab\20lab\obj\Debug\20lab_MarkupCompile.cache
+C:\Users\Motsis\Desktop\20\20lab\20lab\obj\Debug\20lab.g.resources
+C:\Users\Motsis\Desktop\20\20lab\20lab\obj\Debug\_20lab.Properties.Resources.resources
+C:\Users\Motsis\Desktop\20\20lab\20lab\obj\Debug\20lab.csproj.GenerateResource.cache
+C:\Users\Motsis\Desktop\20\20lab\20lab\obj\Debug\20lab.csproj.CoreCompileInputs.cache
+C:\Users\Motsis\Desktop\20\20lab\20lab\bin\Debug\20lab.exe.config
+C:\Users\Motsis\Desktop\20\20lab\20lab\bin\Debug\20lab.exe
+C:\Users\Motsis\Desktop\20\20lab\20lab\bin\Debug\20lab.pdb
+C:\Users\Motsis\Desktop\20\20lab\20lab\obj\Debug\20lab.exe
+C:\Users\Motsis\Desktop\20\20lab\20lab\obj\Debug\20lab.pdb
+C:\Users\Motsis\Desktop\20\20lab\20lab\obj\Debug\20lab.exe.config

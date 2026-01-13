@@ -1,0 +1,14 @@
+C:\Users\Motsis\Desktop\19\lab19\lab19\obj\Debug\lab19.csproj.AssemblyReference.cache
+C:\Users\Motsis\Desktop\19\lab19\lab19\obj\Debug\MainWindow.baml
+C:\Users\Motsis\Desktop\19\lab19\lab19\obj\Debug\MainWindow.g.cs
+C:\Users\Motsis\Desktop\19\lab19\lab19\obj\Debug\App.g.cs
+C:\Users\Motsis\Desktop\19\lab19\lab19\obj\Debug\lab19_MarkupCompile.cache
+C:\Users\Motsis\Desktop\19\lab19\lab19\obj\Debug\lab19.g.resources
+C:\Users\Motsis\Desktop\19\lab19\lab19\obj\Debug\lab19.Properties.Resources.resources
+C:\Users\Motsis\Desktop\19\lab19\lab19\obj\Debug\lab19.csproj.GenerateResource.cache
+C:\Users\Motsis\Desktop\19\lab19\lab19\obj\Debug\lab19.csproj.CoreCompileInputs.cache
+C:\Users\Motsis\Desktop\19\lab19\lab19\bin\Debug\lab19.exe.config
+C:\Users\Motsis\Desktop\19\lab19\lab19\bin\Debug\lab19.exe
+C:\Users\Motsis\Desktop\19\lab19\lab19\bin\Debug\lab19.pdb
+C:\Users\Motsis\Desktop\19\lab19\lab19\obj\Debug\lab19.exe
+C:\Users\Motsis\Desktop\19\lab19\lab19\obj\Debug\lab19.pdb

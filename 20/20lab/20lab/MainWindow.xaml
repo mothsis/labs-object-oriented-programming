@@ -1,0 +1,47 @@
+﻿<Window x:Class="Task5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Привязки WPF"
+        Height="400" Width="500">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- string, TwoWay -->
+        <TextBox Grid.Row="0" Margin="5"
+                 Text="{Binding Text, Mode=TwoWay,
+                 UpdateSourceTrigger=PropertyChanged}"/>
+
+        <!-- int, TwoWay -->
+        <Slider Grid.Row="1" Margin="5"
+                Minimum="10" Maximum="40"
+                Value="{Binding FontSize, Mode=TwoWay}"/>
+
+        <!-- double, TwoWay -->
+        <Slider Grid.Row="2" Margin="5"
+                Minimum="0.2" Maximum="1"
+                Value="{Binding Opacity, Mode=TwoWay}"/>
+
+        <!-- bool, TwoWay -->
+        <CheckBox Grid.Row="3" Margin="5"
+                  Content="Жирный текст"
+                  IsChecked="{Binding IsBold, Mode=TwoWay}"/>
+
+        <!-- Демонстрация -->
+        <TextBlock x:Name="txtDemo"
+                   Grid.Row="4"
+                   Text="{Binding Text}"
+                   FontSize="{Binding FontSize}"
+                   Opacity="{Binding Opacity}"
+                   Foreground="{Binding TextColor}"
+                   FontFamily="{Binding FontFamily}"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"/>
+    </Grid>
+</Window>
